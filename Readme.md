@@ -1,7 +1,7 @@
 # Hi, I'm [Vidya Sagar Mehar](https://vidya-sagar-portfolio.netlify.app/) ! 👋
 
 
-## 🚀 I'm a front-end developer...
+## 🚀 I'm a full-stack developer...
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Project Title - Basic counter Javascript project
@@ -26,9 +26,10 @@ https://basiccounteraap.netlify.app/
 
 
 ## Screenshots
+![Screenshot](https://user-images.githubusercontent.com/92782806/211470235-d180a93c-6560-4532-8a91-006733d27b2d.png)
+![Screenshott](https://user-images.githubusercontent.com/92782806/211470236-ea0da1cb-c509-40a5-a207-98479b33d01f.png)
 
-![](./Screenshot.png)
-![](./Screenshott.png)
+
 
 
 
